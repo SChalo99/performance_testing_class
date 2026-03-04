@@ -1,0 +1,29 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1772591954328,777,Home Page/onlineshop/-1,200,OK,Primera grabación 1-1,text,true,,8868,498,2,2,http://www.testingyes.com/onlineshop/,776,0,125
+1772591954826,1054,Home Page/onlineshop/-1,200,OK,Primera grabación 1-2,text,true,,8867,498,2,2,http://www.testingyes.com/onlineshop/,1053,0,129
+1772591955108,1578,Home Page/onlineshop/my-account-2,200,OK,Primera grabación 1-1,text,true,,6375,2063,2,2,http://www.testingyes.com/onlineshop/login?back=my-account,663,0,0
+1772591955108,663,Home Page/onlineshop/my-account-2-0,302,Moved Temporarily,Primera grabación 1-1,text,true,,312,1026,2,2,http://www.testingyes.com/onlineshop/my-account,663,0,0
+1772591955771,915,Home Page/onlineshop/my-account-2-1,200,OK,Primera grabación 1-1,text,true,,6063,1037,2,2,http://www.testingyes.com/onlineshop/login?back=my-account,914,0,0
+1772591955882,1631,Home Page/onlineshop/my-account-2,200,OK,Primera grabación 1-2,text,true,,6377,2063,2,2,http://www.testingyes.com/onlineshop/login?back=my-account,741,0,0
+1772591955882,741,Home Page/onlineshop/my-account-2-0,302,Moved Temporarily,Primera grabación 1-2,text,true,,312,1026,2,2,http://www.testingyes.com/onlineshop/my-account,741,0,0
+1772591956623,890,Home Page/onlineshop/my-account-2-1,200,OK,Primera grabación 1-2,text,true,,6065,1037,2,2,http://www.testingyes.com/onlineshop/login?back=my-account,890,0,0
+1772591956687,2170,Entrar user y Contrasena/onlineshop/login?back=my-account-4,200,OK,Primera grabación 1-1,text,true,,8368,2967,2,2,http://www.testingyes.com/onlineshop/my-account,1236,0,0
+1772591956687,1236,Entrar user y Contrasena/onlineshop/login?back=my-account-4-0,302,Moved Temporarily,Primera grabación 1-1,text,true,,2379,1266,2,2,http://www.testingyes.com/onlineshop/login?back=my-account,1236,0,0
+1772591957923,934,Entrar user y Contrasena/onlineshop/login?back=my-account-4-1,200,OK,Primera grabación 1-1,text,true,,5989,1701,2,2,http://www.testingyes.com/onlineshop/my-account,933,0,0
+1772591957515,2231,Entrar user y Contrasena/onlineshop/login?back=my-account-4,200,OK,Primera grabación 1-2,text,true,,8361,2963,2,2,http://www.testingyes.com/onlineshop/my-account,1225,0,0
+1772591957515,1225,Entrar user y Contrasena/onlineshop/login?back=my-account-4-0,302,Moved Temporarily,Primera grabación 1-2,text,true,,2375,1266,2,2,http://www.testingyes.com/onlineshop/login?back=my-account,1225,0,0
+1772591958741,1005,Entrar user y Contrasena/onlineshop/login?back=my-account-4-1,200,OK,Primera grabación 1-2,text,true,,5986,1697,2,2,http://www.testingyes.com/onlineshop/my-account,1004,0,0
+1772591958859,1726,Entrar user y Contrasena/onlineshop/login?back=my-account-5,200,OK,Primera grabación 1-1,text,true,,6295,3511,2,2,http://www.testingyes.com/onlineshop/my-account,700,0,0
+1772591958859,700,Entrar user y Contrasena/onlineshop/login?back=my-account-5-0,302,Moved Temporarily,Primera grabación 1-1,text,true,,301,1810,2,2,http://www.testingyes.com/onlineshop/login?back=my-account,700,0,0
+1772591959560,1025,Entrar user y Contrasena/onlineshop/login?back=my-account-5-1,200,OK,Primera grabación 1-1,text,true,,5994,1701,2,2,http://www.testingyes.com/onlineshop/my-account,1025,0,0
+1772591960586,1164,Click Accesorios/onlineshop/6-accessories-7,200,OK,Primera grabación 1-1,text,true,,11144,1583,2,2,http://www.testingyes.com/onlineshop/6-accessories,1163,0,0
+1772591959747,2003,Entrar user y Contrasena/onlineshop/login?back=my-account-5,200,OK,Primera grabación 1-2,text,true,,6285,3503,2,2,http://www.testingyes.com/onlineshop/my-account,838,0,0
+1772591959747,838,Entrar user y Contrasena/onlineshop/login?back=my-account-5-0,302,Moved Temporarily,Primera grabación 1-2,text,true,,301,1806,2,2,http://www.testingyes.com/onlineshop/login?back=my-account,838,0,0
+1772591960585,1165,Entrar user y Contrasena/onlineshop/login?back=my-account-5-1,200,OK,Primera grabación 1-2,text,true,,5984,1697,2,2,http://www.testingyes.com/onlineshop/my-account,1165,0,0
+1772591961751,1496,Click Accesorios/onlineshop/6-accessories-7,200,OK,Primera grabación 1-2,text,true,,11135,1579,2,2,http://www.testingyes.com/onlineshop/6-accessories,1496,0,0
+1772591961751,2111,Click Sign out/onlineshop/-19,200,OK,Primera grabación 1-1,text,true,,11495,2793,2,2,http://www.testingyes.com/onlineshop/6-accessories,676,0,0
+1772591961751,676,Click Sign out/onlineshop/-19-0,302,Moved Temporarily,Primera grabación 1-1,text,true,,990,1633,2,2,http://www.testingyes.com/onlineshop/?mylogout=,676,0,0
+1772591962427,1435,Click Sign out/onlineshop/-19-1,200,OK,Primera grabación 1-1,text,true,,10505,1160,2,2,http://www.testingyes.com/onlineshop/6-accessories,1434,0,0
+1772591963248,1947,Click Sign out/onlineshop/-19,200,OK,Primera grabación 1-2,text,true,,11493,2789,1,1,http://www.testingyes.com/onlineshop/6-accessories,613,0,0
+1772591963248,613,Click Sign out/onlineshop/-19-0,302,Moved Temporarily,Primera grabación 1-2,text,true,,990,1629,1,1,http://www.testingyes.com/onlineshop/?mylogout=,613,0,0
+1772591963862,1333,Click Sign out/onlineshop/-19-1,200,OK,Primera grabación 1-2,text,true,,10503,1160,1,1,http://www.testingyes.com/onlineshop/6-accessories,1331,0,0

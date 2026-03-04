@@ -1,0 +1,13 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1772591478939,859,Home Page/onlineshop/-1,200,OK,Primera grabación 1-1,text,true,,8870,498,1,1,http://www.testingyes.com/onlineshop/,859,0,129
+1772591479799,1228,Home Page/onlineshop/my-account-2,200,OK,Primera grabación 1-1,text,true,,6378,2063,1,1,http://www.testingyes.com/onlineshop/login?back=my-account,509,0,0
+1772591479799,509,Home Page/onlineshop/my-account-2-0,302,Moved Temporarily,Primera grabación 1-1,text,true,,312,1026,1,1,http://www.testingyes.com/onlineshop/my-account,509,0,0
+1772591480309,718,Home Page/onlineshop/my-account-2-1,200,OK,Primera grabación 1-1,text,true,,6066,1037,1,1,http://www.testingyes.com/onlineshop/login?back=my-account,718,0,0
+1772591481029,717,Entrar user y Contrasena/onlineshop/login?back=my-account-4,200,OK,Primera grabación 1-1,text,true,,6113,1265,1,1,http://www.testingyes.com/onlineshop/login?back=my-account,717,0,0
+1772591481747,1534,Entrar user y Contrasena/onlineshop/login?back=my-account-5,200,OK,Primera grabación 1-1,text,true,,8367,2967,1,1,http://www.testingyes.com/onlineshop/my-account,838,0,0
+1772591481747,838,Entrar user y Contrasena/onlineshop/login?back=my-account-5-0,302,Moved Temporarily,Primera grabación 1-1,text,true,,2379,1266,1,1,http://www.testingyes.com/onlineshop/login?back=my-account,838,0,0
+1772591482588,693,Entrar user y Contrasena/onlineshop/login?back=my-account-5-1,200,OK,Primera grabación 1-1,text,true,,5988,1701,1,1,http://www.testingyes.com/onlineshop/my-account,692,0,0
+1772591483282,1037,Click Accesorios/onlineshop/6-accessories-7,200,OK,Primera grabación 1-1,text,true,,11146,1583,1,1,http://www.testingyes.com/onlineshop/6-accessories,1037,0,0
+1772591484321,1422,Click Sign out/onlineshop/-19,200,OK,Primera grabación 1-1,text,true,,11495,2791,1,1,http://www.testingyes.com/onlineshop/6-accessories,496,0,0
+1772591484321,496,Click Sign out/onlineshop/-19-0,302,Moved Temporarily,Primera grabación 1-1,text,true,,990,1631,1,1,http://www.testingyes.com/onlineshop/?mylogout=,496,0,0
+1772591484818,925,Click Sign out/onlineshop/-19-1,200,OK,Primera grabación 1-1,text,true,,10505,1160,1,1,http://www.testingyes.com/onlineshop/6-accessories,924,0,0
